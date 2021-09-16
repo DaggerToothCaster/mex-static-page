@@ -1,0 +1,1407 @@
+﻿@media screen and (max-width:1200px) {
+.wrap {
+width:972px
+}
+
+.cbp-af-header nav {
+padding:0 20px
+}
+
+.cbp-af-header nav a {
+line-height:100px
+}
+
+.cbp-af-header .mainlogo {
+height:100px;
+margin-top:0
+}
+
+.cbp-af-header .mainlogo img {
+height:80px;
+vertical-align:middle
+}
+
+.cbp-af-header.cbp-af-header-shrink .mainlogo {
+margin-top:0
+}
+
+.mainphone {
+left:0
+}
+
+.dash1 {
+left:-112px
+}
+
+.dash2 {
+left:-42px
+}
+
+.dash3 {
+left:-202px
+}
+
+.dash4 {
+left:-45px
+}
+
+.perfection {
+left:7px
+}
+
+.mainbackdesc h1 {
+font-size:26px;
+letter-spacing:0
+}
+
+.maindesctext span {
+font-size:13.8px
+}
+
+.mainaboutitemsblock {
+padding:0
+}
+
+.aboutdashleft {
+left:38px
+}
+
+.aboutdashright {
+left:408px
+}
+
+.totalsumwrap {
+width:48%
+}
+
+.maincertbtn .maindescbut {
+font-size:13px
+}
+
+.macblock {
+width:46%
+}
+
+.workdescblock {
+width:50%
+}
+
+.macback {
+width:440px;
+height:355px;
+background:url(../img/macback_1.png);
+background-size:contain
+}
+
+.macbackwrap {
+height:252px
+}
+
+.stepsblock {
+width:calc(50% - 40px)
+}
+
+.bigstepline {
+top:170px;
+height:850px
+}
+
+.review {
+padding-right:40px
+}
+
+.macblockline img.reviewimg {
+height:92px
+}
+
+.maincontbut {
+padding-left:70px
+}
+
+.contlink {
+width:31.5%
+}
+
+.footblock {
+line-height:1.7;
+font-size:10px
+}
+
+.workdesctitle {
+font-size:20px
+}
+}
+
+@media screen and (max-width:992px) {
+.wrap {
+width:748px
+}
+
+.cbp-af-header nav {
+padding:0 10px
+}
+
+.cbp-af-header nav a {
+letter-spacing:0;
+font-size:14px
+}
+
+.mainbackwrap {
+width:100%
+}
+
+.mainbackdesc {
+margin:150px 40px 0
+}
+
+.mainbackwrap:first-child {
+display:none
+}
+
+.maindesctext span {
+font-size:16px
+}
+
+.mainback {
+height:inherit;
+padding-bottom:40px
+}
+
+.mainabout {
+padding:20px 0 10px
+}
+
+.mainabout h2,.workblock h2,.stepsmainblock h2,.reviewblock h2,.contactsblock h2 {
+font-size:34px
+}
+
+.mainaboutitemsblock {
+margin:120px 0
+}
+
+.aboutitemgrad1 {
+margin-right:0
+}
+
+.mainaboutitem2 {
+margin:-20px 0 0 -544px
+}
+
+.mainaboutitem {
+width:200px;
+font-size:13px;
+padding:20px;
+vertical-align:top
+}
+
+.aboutitemgrad2 {
+margin-left:344px
+}
+
+.aboutdashleft {
+left:-49px
+}
+
+.aboutdashright {
+left:297px
+}
+
+.mainaboutitem h3 {
+font-size:14px;
+font-weight:300;
+margin-bottom:10px;
+line-height:1.3
+}
+
+.totalsumwrap {
+width:100%;
+display:flex;
+justify-content:space-between;
+flex-wrap:wrap
+}
+
+.totalsumwrapvalue {
+width:48%
+}
+
+.totalsumdesc {
+font-size:20px
+}
+
+.totalsumnum {
+margin:10px 0;
+font-size:34px;
+line-height:66px
+}
+
+.totalsumblock .totalsumwrap .totalsumnum:last-child::before {
+font-size:24px
+}
+
+.aboutdashbottom {
+bottom:-55px
+}
+
+.maincompanydesc {
+width:50%;
+margin-top:40px
+}
+
+.certimgwrap {
+width:50%;
+margin-top:40px;
+text-align:left;
+padding-left:20px
+}
+
+.maincertbtn {
+width:100%
+}
+
+.maincertbtn .maindescbut {
+font-size:14px
+}
+
+.certimg {
+height:172px
+}
+
+.serdash {
+left:-2px
+}
+
+.workblock {
+padding:40px 0 10px
+}
+
+.macblock {
+width:100%;
+display:flex;
+justify-content:space-between;
+flex-wrap:wrap
+}
+
+.macback {
+margin:30px auto -40px
+}
+
+.macblock .macblockline {
+width:49%;
+padding:15px;
+font-size:15px;
+margin:10px 0
+}
+
+.macbackwrap img {
+height:80px;
+margin:20px auto;
+width:120px
+}
+
+.macblock .macblockline img {
+height:17px
+}
+
+.macblockline a.blocklinea i {
+font-size:30px
+}
+
+.workdescblock {
+width:100%;
+margin:30px 0
+}
+
+.stepsblock {
+width:95%;
+margin:20px 0 0
+}
+
+.stepsblock.stepsblockfull {
+width:calc(100% - 26px);
+margin-left:0
+}
+
+.stepslinewrap .maincontform {
+width:90%
+}
+
+.stepsline h3 {
+font-size:26px
+}
+
+.stepsblock.stepsblockfull2 {
+width:calc(100% - 26px)
+}
+
+.bigstepline {
+top:250px;
+height:950px
+}
+
+.stepsmainblock {
+padding:40px 0
+}
+
+.reviewblock {
+padding:40px 0
+}
+
+.review {
+padding-right:0;
+width:100%
+}
+
+.macblockline img.reviewimg {
+height:150px
+}
+
+.reviewblock h2,.contactsblock h2 {
+margin:0 0 30px
+}
+
+.review:last-child {
+width:100%
+}
+
+.smartcode {
+height:120px
+}
+
+.contactsblock {
+padding:40px 0 20px
+}
+
+.contlink {
+width:48%
+}
+
+.contlink:last-child {
+width:100%;
+display:flex;
+justify-content:space-between;
+flex-wrap:wrap
+}
+
+.contlink:last-child h3 {
+width:100%;
+margin:0
+}
+
+.contlink:last-child .maincontbut {
+width:48%
+}
+
+.footlogo {
+margin-right:15px
+}
+
+.footlogo img {
+display:none
+}
+
+.reviewlinkwrap {
+margin-bottom:30px
+}
+}
+
+@media screen and (max-width:768px) {
+.wrap {
+width:550px
+}
+
+.cbp-af-header nav a:nth-child(-n+3) {
+display:none
+}
+
+.cbp-af-header nav a:nth-child(n+4) {
+width:33%
+}
+
+.maindesc {
+padding:15px 0
+}
+
+.mainbackdesc {
+margin:120px 20px 0
+}
+
+.maindesctext span {
+font-size:14.5px
+}
+
+.mainabout h2,.workblock h2,.stepsmainblock h2,.reviewblock h2,.contactsblock h2 {
+font-size:28px
+}
+
+.mainabout h2 small,.workblock h2 small,.stepsmainblock h2 small,.reviewblock h2 small,.contactsblock h2 small {
+font-size:16px;
+line-height:40px
+}
+
+.mainabout {
+padding:10px 0
+}
+
+.mainaboutitemsblock {
+display:flex;
+justify-content:space-between;
+flex-wrap:wrap
+}
+
+.mainaboutitem {
+width:45%;
+height:inherit
+}
+
+.aboutitemgrad2,.mainaboutitem2 {
+margin:0
+}
+
+.mainaboutitem2 {
+position:relative;
+margin:-20px auto 20px;
+width:100%;
+padding:20px;
+order:-1;
+z-index:1;
+height:inherit;
+background:transparent;
+box-shadow:none;
+border:none
+}
+
+.mainaboutitem2:hover {
+transform:none;
+box-shadow:none
+}
+
+.mainaboutitem2 img {
+height:80px
+}
+
+.aboutdashleft {
+left:152px;
+top:362px;
+width:245px
+}
+
+.serdash {
+top:-19px;
+height:200px;
+background:url(../img/dash2.png) top
+}
+
+.aboutdashright {
+display:none
+}
+
+.mainaboutitemsblock {
+margin:50px 0
+}
+
+.aboutdashbottom {
+bottom:-29px
+}
+
+.totalsumdesc {
+font-size:16px
+}
+
+.totalsumnum {
+font-size:26px;
+line-height:54px
+}
+
+.totalsumblock .totalsumwrap .totalsumnum:last-child::before {
+left:14px;
+font-size:20px
+}
+
+.maincompanydesc {
+font-size:14px
+}
+
+.maincompany {
+font-size:18px;
+margin:4px 0 18px
+}
+
+.certimg {
+height:164px
+}
+
+.maincertbtn .maindescbut {
+height:40px;
+margin-top:20px;
+line-height:36px
+}
+
+.macback {
+margin:20px auto -66px;
+width:373px;
+height:300px
+}
+
+.macbackwrap {
+height:210px
+}
+
+.macbackwrap img {
+height:66px;
+margin:15px auto;
+width:100px
+}
+
+.macblockdesc {
+font-size:22px
+}
+
+.macblock .macblockline {
+width:80%;
+padding:12px;
+font-size:16px;
+margin:5px auto
+}
+
+.workdescblock {
+width:100%;
+margin:30px 0;
+order:-1;
+padding:0 20px
+}
+
+.workblock {
+padding:40px 0
+}
+
+.stepsline {
+margin-bottom:40px
+}
+
+.stepsline:nth-of-type(3) .stepslinewrap:nth-child(2) {
+display:none
+}
+
+.stepsblock.stepsblockfull {
+width:100%
+}
+
+.stepslinewrap {
+width:100%
+}
+
+.stepsmainblock h2 {
+margin:0 0 30px
+}
+
+.stepsblock {
+width:100%
+}
+
+.icosteps2 {
+display:none
+}
+
+.stepsblock.stepsblockfull2 {
+width:100%
+}
+
+.stepsline:nth-of-type(4) .stepslinewrap:nth-child(3) {
+display:none
+}
+
+.bigstepline {
+top:320px;
+height:850px
+}
+
+.mainreviewdesc {
+width:calc(100% - 120px);
+font-size:14px;
+line-height:18px
+}
+
+.mainauditwrap .macblockline {
+border-top:5px solid #02ba96;
+border-left:none;
+margin:15px 0 20px
+}
+
+.mainreviewimg {
+justify-content:center;
+flex-wrap:wrap
+}
+
+.mainreviewimgdesc {
+width:100%;
+padding-left:0;
+font-size:16px;
+text-align:center;
+margin-top:20px
+}
+
+.contlink {
+display:flex;
+justify-content:space-between;
+flex-wrap:wrap;
+width:100%
+}
+
+.contlink h3 {
+width:100%;
+margin:30px 0 0
+}
+
+.contlink:last-child h3 {
+width:100%;
+margin:30px 0 0
+}
+
+.maincontbut {
+width:48%;
+padding-left:65px;
+margin:24px 0 0;
+font-size:14px
+}
+
+.contactsblock {
+padding:40px 0
+}
+
+.contactsblock h2 {
+margin:0
+}
+
+.footblock {
+width:48%
+}
+
+.footblock:last-child {
+margin-top:15px;
+width:100%
+}
+
+.footer {
+height:inherit
+}
+
+.footblock .maindescbut:last-child {
+margin:0
+}
+
+.modaldesc .maincontform {
+margin:0 auto 20px;
+width:100%
+}
+
+.modallineflex {
+font-size:14px
+}
+
+.modallinewrapvalue img {
+height:30px
+}
+
+.modallinewrapvalue {
+font-size:34px;
+margin-top:5px
+}
+
+.modaldesc {
+margin-top:30px
+}
+
+.dashmodal {
+margin-bottom:30px
+}
+
+.stepsblock h4 {
+margin-bottom:10px
+}
+
+.reviewwrap:last-child {
+margin-top:20px
+}
+
+.reviewlinkwrap,.lastdepowrap {
+margin-top:20px;
+margin-bottom:20px
+}
+}
+
+@media screen and (max-width:576px) {
+.calcpage h2 {
+font-size:20px
+}
+
+.wrap {
+width:380px
+}
+
+.cbp-af-header .mainlogo img {
+height:60px
+}
+
+.cbp-af-header nav a {
+font-size:12px;
+line-height:60px
+}
+
+.cbp-af-header nav a:nth-child(4) {
+width:28%
+}
+
+.cbp-af-header nav a:nth-child(n+5) {
+width:36%
+}
+
+.mainbackdesc h1 {
+font-size:19px
+}
+
+.mainico {
+height:40px
+}
+
+.maindesctext span {
+font-size:14px;
+line-height:1.2
+}
+
+.cbp-af-header.cbp-af-header-shrink nav a {
+line-height:60px
+}
+
+.cbp-af-header.cbp-af-header-shrink .mainlogo img {
+height:50px
+}
+
+.cbp-af-header.cbp-af-header-shrink {
+height:60px
+}
+
+.cbp-af-header.cbp-af-header-shrink .mainlogo img {
+height:52px;
+vertical-align:top;
+padding-top:7px
+}
+
+.cbp-af-header .mainlogo {
+height:60px
+}
+
+.cbp-af-header .mainlogo img {
+height:52px;
+vertical-align:top;
+padding-top:1px
+}
+
+.maindescbut {
+height:40px;
+margin-top:20px;
+line-height:38px;
+font-size:16px
+}
+
+.maindesclink a {
+font-size:14px
+}
+
+.maindesclink a:lang(ru) {
+font-size:13px
+}
+
+.mainabout h2,.workblock h2,.stepsmainblock h2,.reviewblock h2,.contactsblock h2 {
+font-size:24px;
+line-height:1.2
+}
+
+.mainaboutitem2 h3 {
+font-size:20px
+}
+
+.mainaboutitem h3 {
+font-size:16px
+}
+
+.mainaboutitem {
+width:100%;
+margin:0 auto 15px;
+text-align:left
+}
+
+.aboutdashleft {
+display:none
+}
+
+.totalsumwrapvalue {
+width:100%;
+margin:0 auto 15px
+}
+
+.mainaboutitemsblock {
+margin:50px 0 60px
+}
+
+.maincompanydesc {
+font-size:12px;
+margin-top:20px
+}
+
+.certimgwrap {
+margin-top:20px
+}
+
+.maincompany {
+font-size:15px;
+margin:4px 0 18px
+}
+
+.certimg {
+height:156px
+}
+
+.maincertbtn .maindescbut {
+height:32px;
+margin-top:10px;
+line-height:30px;
+font-size:10px
+}
+
+.aboutitemgrad1 {
+display:none
+}
+
+.workdescblock {
+width:100%;
+margin:30px auto 10px;
+order:-1;
+padding:0
+}
+
+.workdescpre {
+font-size:14px
+}
+
+.workdesctitle {
+font-size:16px;
+line-height:1.4;
+margin:10px 0
+}
+
+.workdesc {
+font-size:14px
+}
+
+.macback {
+width:310px;
+height:250px
+}
+
+.macbackwrap {
+height:178px
+}
+
+.macbackwrap img {
+height:60px;
+margin:10px auto;
+width:90px
+}
+
+.macblock .macblockline {
+width:100%;
+font-size:15px
+}
+
+.macblock .macblockline img {
+height:15px;
+vertical-align:-2px
+}
+
+.stepslinewrap .maincontform {
+width:100%
+}
+
+.mainbackdesc {
+margin:120px 10px 0
+}
+
+.maindescbut:hover {
+margin-top:23px
+}
+
+.bigstepline {
+height:930px
+}
+
+.mainabout h2 small,.workblock h2 small,.stepsmainblock h2 small,.reviewblock h2 small,.contactsblock h2 small {
+font-size:16px;
+line-height:1.2;
+margin-top:10px
+}
+
+.reviewblock {
+padding:30px 0
+}
+
+.mainreview {
+flex-direction:column
+}
+
+.mainreview img {
+height:80px;
+margin-right:0;
+margin-bottom:10px
+}
+
+.mainreviewdesc {
+width:100%;
+font-size:14px
+}
+
+.mainauditwrap .macblockline {
+padding:15px
+}
+
+.mainreviewimgdesc {
+font-size:14px;
+margin-top:15px
+}
+
+.maincompany span {
+display:block
+}
+
+.maincompany {
+margin:2px 0 15px
+}
+
+.maincontbut {
+width:100%;
+padding-left:70px;
+margin:20px 0 0;
+font-size:16px
+}
+
+.contlink h3 {
+width:100%;
+margin:25px 0 0;
+font-size:14px;
+font-weight:300
+}
+
+.maincontbut::before {
+top:-4px;
+height:50px;
+width:50px
+}
+
+.maincontbut.supportlink::after {
+width:49px;
+top:calc(50% - 20px)
+}
+
+.maincontbut.telegramlink::after {
+font-size:26px;
+width:50px
+}
+
+.maincontbut.maillink::after {
+top:calc(50% - 20px);
+font-size:26px;
+width:49px
+}
+
+.maincontbut.twitterlink::after {
+font-size:26px;
+width:49px
+}
+
+.maincontbut.youtubelink::after {
+font-size:25px;
+width:49px
+}
+
+.maincontbut.instagramlink::after {
+font-size:25px;
+width:46px
+}
+
+.maincontbut.discordlink::after {
+font-size:25px;
+width:50px
+}
+
+.maincontbut,.contlink:last-child .maincontbut {
+width:100%
+}
+
+.footblock {
+width:50%
+}
+
+.footblock .maindescbut:hover {
+margin-top:0
+}
+
+.remodal h1 {
+font-size:22px
+}
+
+.remodal {
+padding:20px
+}
+
+.modalref small {
+font-size:11px
+}
+
+.modaldesc {
+margin-top:20px;
+font-size:14px
+}
+
+.dashmodal {
+margin-bottom:20px
+}
+
+.macblockline {
+margin:12px 0;
+padding:12px
+}
+
+.modallinewrap:nth-of-type(2) {
+padding-left:12px
+}
+
+.modallinewrapvalue {
+font-size:30px
+}
+
+.modallinewrapvalue img {
+height:26px
+}
+
+.maincontform label {
+font-size:14px
+}
+
+.maincontform input[type="text"] {
+font-size:16px
+}
+
+.modalline {
+font-size:14px
+}
+
+.modallogo {
+height:50px
+}
+
+.modaldesc h3 {
+font-size:18px
+}
+
+.stepsline h3 {
+font-size:22px
+}
+
+.stepsline h3:lang(ru) {
+font-size:18px
+}
+
+.mainauditwrap {
+margin-top:30px
+}
+
+.reviewwrap {
+width:96%;
+padding:0;
+margin:0 auto
+}
+
+.smartcode {
+width:91%
+}
+
+.cbp-af-header nav a i {
+vertical-align:-2px;
+margin-right:2px
+}
+
+.modallinewrap {
+width:100%;
+padding-bottom:10px
+}
+
+.modallinewrap:nth-of-type(2) {
+border-top:1px solid #535353;
+border-left:none;
+padding:10px 0 0
+}
+
+.socwrap i {
+font-size: 22px;
+}
+.socwrap {
+position: relative;
+width: 50px;
+margin: 3px 0;
+height: 30px;
+line-height: 30px;
+padding-left: 4px;
+}
+.socblock {
+width: 30px;
+}
+.socwrap:nth-last-of-type(2) i {
+margin: -3px 2px 0 3px
+}
+.socwrap:nth-last-of-type(1) i {
+margin: -2px 3px 0 !important;
+font-size: 20px;
+}
+.socdesc {
+top: calc(50% - -3px);
+left: 4px;
+}
+.langwrap {
+width: 50px;
+margin: 3px 0 3px -21px;
+height: 30px;
+line-height: 32px;
+}
+.langwrap img {
+margin: 4px 4px 0 0;
+height: 22px;
+}
+.calcwrap {
+width: 50px;
+margin: 3px 0 15px -20px;
+height: 30px;
+line-height: 32px;
+}
+.calcwrap i {
+margin: -6px 6px 0;
+font-size: 18px;
+}
+.langblock {
+width: 30px;
+}
+.calcpage {
+width: 400px;
+font-size: 14px;
+}
+.contesttitle {
+font-size: 16px;
+}
+.calcpage h2 {
+font-size: 16px;
+}
+}
+
+@media screen and (max-width:400px) {
+.wrap {
+width:300px
+}
+
+.mainbackdesc {
+margin:120px 10px 0;
+text-align:center
+}
+
+.cbp-af-header nav a:nth-child(4) {
+width:100%
+}
+
+.cbp-af-header nav a:nth-child(n+5) {
+width:50%
+}
+
+.cbp-af-header nav {
+padding:0
+}
+
+.cbp-af-header {
+background:#303030;
+box-shadow:1px 1px 20px #1f1f1f;
+height:inherit
+}
+
+.cbp-af-header nav a:hover {
+border-top:6px solid transparent
+}
+
+.cbp-af-header .mainlogo {
+height:50px
+}
+
+.cbp-af-header.cbp-af-header-shrink .mainlogo {
+display:none
+}
+
+.cbp-af-header.cbp-af-header-shrink nav a:hover {
+border-bottom:4px solid transparent
+}
+
+.mainbackdesc h1 {
+font-size:16px
+}
+
+.mainico {
+height:35px
+}
+
+.mainabout {
+padding:0
+}
+
+.mainaboutitem2 {
+margin:-30px auto 10px
+}
+
+.mainaboutitem2 h3 {
+font-size:15px;
+font-weight:300
+}
+
+.mainaboutitem h3 {
+font-size:15px
+}
+
+.maincompany {
+font-size:12px
+}
+
+.certimg {
+height:145px
+}
+
+.maincertbtn .maindescbut {
+font-size:9px
+}
+
+.maincertbtn .maindescbut i {
+display:none
+1311
+}
+
+.workdesc {
+font-size:12px
+}
+
+.macblock .macblockline {
+font-size:12px
+}
+
+.macback {
+width:280px;
+height:225px;
+margin:20px auto -50px
+}
+
+.macbackwrap {
+height:160px
+}
+
+.macblockdesc {
+font-size:18px
+}
+
+.macbackwrap img {
+height:50px;
+margin:10px auto;
+width:76px
+}
+
+.stepsblock {
+font-size:12px
+}
+
+.bigstepline {
+height:1000px
+}
+
+.mainabout h2 small,.workblock h2 small,.stepsmainblock h2 small,.reviewblock h2 small,.contactsblock h2 small {
+font-size:14px
+}
+
+.footblock {
+width:100%;
+line-height:1.4;
+font-size:12px
+}
+
+.maincontbut {
+padding-left:65px;
+font-size:14px
+}
+
+.remodal {
+padding:20px 15px
+}
+
+.maincontform label {
+font-size:12px
+}
+
+.modalref {
+font-size:12px
+}
+
+.remodal-close {
+top:-5px;
+right:-5px
+}
+
+.remodal h1 {
+font-size:20px
+}
+
+.remodal h1:lang(ru) {
+font-size:18px
+}
+
+.modallogo {
+height:40px;
+margin:10px 0
+}
+
+.reviewlink {
+width:48%;
+height:60px;
+margin:5px 0;
+padding:15px
+}
+
+.lastdepo {
+height:40px
+}
+
+.lastdepo span {
+width:calc(100%/2 - 20px);
+line-height:20px;
+font-size:12px
+}
+
+.lastdepo span:last-child {
+width:40px
+}
+
+.lastdepo span a {
+margin:-5px auto 0
+}
+
+.lastdepo span a:hover {
+margin:-4px auto -1px
+}
+
+.reviewlinkwrap .reviewlink:last-child {
+display: inline-flex
+}
+
+.calcpage {
+width: 300px;
+font-size: 14px;
+}
+}
