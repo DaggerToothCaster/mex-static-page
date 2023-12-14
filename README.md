@@ -10,8 +10,10 @@
 
 #### 安装教程
 
+```
 npm i http-server -g
 http-server ./
+```
 
 #### 使用说明
 
